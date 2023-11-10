@@ -25,7 +25,7 @@ const account1 = {
     '2023-07-03T23:36:17.929Z',
     '2023-07-07T10:51:36.790Z',
   ],
-  currency: 'EUR',
+  currency: 'SGD',
   locale: 'pt-PT', // de-DE
 };
 
